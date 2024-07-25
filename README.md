@@ -6,6 +6,11 @@ This project involves a detailed analysis of the US Accidents Dataset to uncover
 
 The primary goal of this project is to analyze the US Accidents dataset to identify patterns and correlations that can help in understanding the factors influencing traffic accidents. This includes analyzing the distribution of accidents over time, identifying the most affected states and cities, and examining the impact of weather and road conditions on accident severity.
 
+## Dataset
+
+The dataset used in this project is sourced from Kaggle. You can download the dataset from the following link:
+[US Accidents Dataset on Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents)
+
 ## Data Wrangling
 
 ### Steps Performed:
